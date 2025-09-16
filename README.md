@@ -14,6 +14,7 @@ Todos os comandos e suas explicações podem ser encontrados no arquivo [**`comm
 
 **Erick Fanka**  
 Ex-Competidor WorldSkills | Cloud Computing | Redes | Python | AWS 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/erick-fanka)
 
 ---
