@@ -1,4 +1,4 @@
-## ��‍�� Fluxo de Trabalho Praticado
+## 🐱‍🏍 Fluxo de Trabalho Praticado
 - [x] Configuração de chave SSH
 - [x] Criação do repositório público
 - [x] Trabalho com Feature Branches
