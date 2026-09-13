@@ -14,4 +14,5 @@ Acesse meus guias detalhados na pasta de documentação:
 - 🎨 [Guia Rápido de Sintaxe Markdown](./docs/markdown-guide.md)
 - ⚡ [Cheatsheet Completa de Comandos](./docs/cheat-sheet.md)
 
+
 ---
