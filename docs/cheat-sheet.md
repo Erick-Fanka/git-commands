@@ -9,6 +9,7 @@
 | `git add .` | Envia as alterações para a área de Staging | Staging |
 | `git commit -m "msg"` | Salva o histórico com uma mensagem | Repositório |
 | `git chekout <arquivo>` | Volta o arquivo para o estado inicial | Local |
+| `git restore <arquivo>` | Restaura todas as modificações do arquivo | Local| 
 
 ## 🌿 Comandos de Branching & Remoto
 
